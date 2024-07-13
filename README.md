@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Ana 👋
 
-🚀 Atualmente estou estudando JavaScript.
+Atualmente estou estudando JavaScript e React.
  
 ### Tecnologias que utilizei até o momento:
 <div style="display: inline_block"><br>
