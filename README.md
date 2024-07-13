@@ -11,6 +11,13 @@ Atualmente estou estudando JavaScript e React.
  
 ##
 
+<div>
+ <a href= "https://github.com/anapmartinsf">
+ <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anapmartinsf&layout=compact&langs_count16&theme=dracula"/>
+</div>
+
+
+
 <a href="https://www.linkedin.com/in/ana-paula-martins-1172b8230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
