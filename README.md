@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Ana 👋
 
-📚 Sou estudante de graduação em Desenvolvimento Full Stack
+📚 Estudante de graduação em Desenvolvimento Full Stack
 
 🛠 Principais tecnologias
 <div style="display: inline_block">
